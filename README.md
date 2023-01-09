@@ -1,0 +1,1 @@
+# 2D Ising model by MCMC (from two approaches: SSF and Wolff)
